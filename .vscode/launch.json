@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Attach using listen",
+            "type": "python",
+            "request": "attach",
+            "listen": {
+                "host": "127.0.0.1",
+                "port": 5678
+            },
+            "justMyCode": false
+        }
+    ]
+}
